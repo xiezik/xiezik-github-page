@@ -36,20 +36,27 @@ private engineering documents and local machine paths are not shipped.
 
 ## Red Bird project
 
-Owner-supplied Milestone 004 supporting materials, native project diagrams:
+Actual team research visuals selected from the owner's expressly supplied
+`milestone004.pptx`, replacing the earlier abstract supporting-material diagrams:
 
-- `redbird-data-workstream.jpg`: actual diagram excerpt from slide 11, covering
-  multimodal scene capture, interaction-motion generation and motion priors.
-- `redbird-collection-training.jpg`: actual diagram excerpt from slide 7,
-  covering retargeting, teleoperation, recording, curation and training.
+- `redbird-scene-interaction-actual.jpg`: slide 4, original embedded JPEG,
+  1352 × 1090. Human-model interaction in a colored kitchen/furniture mesh.
+  Uncropped, byte-identical to the embedded image; SHA256
+  `fa6f4154012c12bb808e0fc301e4c9a2eab9549e3f10693b845752da41a982c4`.
+- `redbird-surface-retarget-actual.jpg`: slide 7, original embedded PNG converted
+  at full resolution to JPEG, 1626 × 1053. Human/robot soccer-contact motion and
+  surface-point comparisons; all four panels retained. No crop or generated
+  imagery; SHA256
+  `995d6c441af89aa8cd2618120fa6524679a9c5787d7827dd47e3aef55ce8164e`.
 
-Both excerpts crop to the original diagrams/title, omit private source and
-assessment details, and use white padding without distorting proportions.
-They are explicitly labelled **project-material diagrams**, not robot-result
-images, owner-authored reconstruction results, or proof of a completed integrated
-system. Team research and the owner's teleoperation/ACT work are distinguished.
-External reference figures and teammate-paper figures with unresolved reuse
-rights are excluded; no raw decks or private workspace/source URLs are shipped.
+Captions attribute these to **team material**, not individual authorship,
+physical-robot success rates or proof of a fully integrated ACT pipeline.
+Their natural proportions are preserved with `object-fit: contain`. Both were
+visually checked for private UI, paths, credentials, names, faces and personal
+watermarks. External-reference floor plans, the PDF-HR paper figure, and slides
+with bystanders or repeated private watermarks are excluded. The raw deck and
+private source locations are not shipped. The supplied permission is not a
+blanket third-party reuse license.
 
 ## WAM internship
 

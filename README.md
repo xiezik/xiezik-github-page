@@ -38,7 +38,13 @@ MPhil student at HKUST(GZ), Fall 2025, advised by Renjing Xu. PhD entry in Fall 
 
 ### 红鸟项目 · 场景与数据闭环
 
-真实场景中的具身研究需要连接场景重建、数据生成、遥操作与训练，而不止是单点采集。这个项目围绕这些环节之间的闭环开展系统研究，与 HumanoidArena-Real 的真机执行链路区分展示。
+真实场景中的具身研究需要连接场景重建、数据生成、遥操作与训练，而不止是单点采集。红鸟团队围绕这些环节开展研究；我的工作聚焦遥操作、数据整理、ACT 训练与真机部署，与 HumanoidArena-Real 的真机执行链路区分展示。
+
+### pb2025_sentry_nav · RoboMaster 团队开源
+
+让哨兵自主导航从仿真走向实车：基于 ROS 2 / Nav2，集成激光定位、地形分析与路径跟踪。以队长 / 算法负责人的竞赛工程经历参与团队建设，并通过公开源码与部署文档服务社区。
+
+[开源仓库](https://github.com/SMBU-PolarBear-Robotics-Team/pb2025_sentry_nav) · 459 GitHub stars · 71 forks（2026-11-03 快照）
 
 ## 联系
 
